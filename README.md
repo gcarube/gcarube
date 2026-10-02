@@ -20,6 +20,4 @@ Currently learning
 
 Python geospatial stack outside GEE (rasterio, xarray, GDAL) and SAR imagery.
 
-Contact
-
-LinkedIn · gcarube@hotmail.com
+Contact: LinkedIn
