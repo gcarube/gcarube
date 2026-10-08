@@ -18,6 +18,6 @@ Google Earth Engine · Python · SQL · QGIS · ArcGIS Pro · SNAP · AWS · Azu
 
 Currently learning
 
-Python geospatial stack outside GEE (rasterio, xarray, GDAL) and SAR imagery.
+Currently building on the Python geospatial stack (rioxarray, geopandas, xarray) and learning SAR imagery.
 
 Contact: LinkedIn
